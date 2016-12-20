@@ -2,6 +2,7 @@ public class Test {
 	
 public static void main(String[] args) {
 	 new Test().dothis1(29700f,0.07f,0.1475f,11);
+	 
 }
 //float a=12000f ;   //本金
 //float b = 0.1f;    //贴息费率
